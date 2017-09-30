@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio 2017
+=======
+# Visual Studio 2015
+>>>>>>> ffcbb5f3c271047f2bd9dcc1559f842139bdf9ed
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWaterlooSimulator", "UWaterlooSimulator.csproj", "{ABFBB049-0357-D0BB-0CAC-5489F18EFF9E}"
 EndProject
 Global
